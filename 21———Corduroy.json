@@ -1,0 +1,66 @@
+{
+  "metrics": {
+    "Connectives": {
+      "CNCAll": 65.69343065693431,
+      "CNCAdd": 52.55474452554745,
+      "CNCADC": 5.839416058394161,
+      "CNCLogic": 49.63503649635037,
+      "CNCCaus": 0.0,
+      "CNCTemp": 7.299270072992701
+    },
+    "Descriptives": {
+      "DESWC": 685.0,
+      "DESPL": 1.1379310344827587,
+      "DESSL": 20.757575757575758,
+      "DESSLd": 11.840160215951215,
+      "DESWLsyd": 1.0359051188234754,
+      "DESPLd": 0.3509312031717983,
+      "DESPC": 29.0,
+      "DESWLltd": 2.3952356275593103,
+      "DESSC": 33.0,
+      "DESWLsy": 2.0,
+      "DESWLlt": 4.362043795620439
+    },
+    "Syntactic Complexity": {
+      "SYNNP": 0.645
+    },
+    "Syntactic Pattern Density": {
+      "DRNP": 0.0,
+      "DRNEG": 3.0,
+      "DRVP": 32.0
+    },
+    "Lexical Diversity": {
+      "LDTTRa": 0.39412484700122397,
+      "LDTTRc": 0.4744186046511628
+    },
+    "Readability": {
+      "RDFFGL": 82.72004895960832
+    },
+    "Referential Cohesion": {
+      "CRFNO1": 0.28125,
+      "CRFNOa": 0.30578512396694235,
+      "CRFCWOa": 0.09707839162308986,
+      "CRFCWO1": 0.087945797479249,
+      "CRFAO1": 0.5000000000000001,
+      "CRFAOa": 0.5151515151515148,
+      "CRFANP1a": 0.0,
+      "CRFSOa": 0.39393939393939365,
+      "CRFSO1": 0.4374999999999999,
+      "CRFANP1": 0.0,
+      "CRFCWOad": 0.09325494867200551,
+      "CRFCWO1d": 0.06215481445575605
+    },
+    "Word Information": {
+      "WRDPRP2": 4.37956204379562,
+      "WRDADV": 56.934306569343065,
+      "WRDADJ": 58.394160583941606,
+      "WRDPRP1p": 0.0,
+      "WRDVERB": 216.05839416058393,
+      "WRDPRP3s": 2.9197080291970803,
+      "WRDPRP1s": 1.4598540145985401,
+      "WRDNOUN": 248.17518248175182,
+      "WRDPRO": 8.75912408759124,
+      "WRDPRP3p": 0.0
+    }
+  }
+}
